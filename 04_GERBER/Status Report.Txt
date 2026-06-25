@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Satellite_4U_Laser_Int_Ext_V110.PrjPcb]
+   Generated File[Satellite_4U_Laser_Int_Ext_V11-RoundHoles-Plated.TXT]
+   Generated File[Satellite_4U_Laser_Int_Ext_V11-SlotHoles-Plated.TXT]
+   Generated File[Satellite_4U_Laser_Int_Ext_V11.LDP]
+   Generated File[Satellite_4U_Laser_Int_Ext_V11.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:57:09 AM On 25-Jun-26
